@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://www.fritz.ai'
   s.license = { :type => 'Apache 2.0', :file => 'LICENSE.md' }
   s.author = { 'Jameson Toole' => 'info@fritz.ai' }
-  s.source = {:git => 'https://github.com/fritzlabs/fritz-ai-ios-sdk.git', :tag => s.version.to_s }
+  s.source = {:git => 'https://github.com/colensobbdo/fritz-ai-ios-sdk.git', :tag => s.version.to_s }
 
   s.requires_arc = true
 
